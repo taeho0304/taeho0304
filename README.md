@@ -4,6 +4,6 @@
 
 🌱 I’m currently learning Spring Data JPA, Spring Security
 
-🔭 I’m currently working on SSAFY
+🔭 I’m currently working on KBDS
 
 📫 How to reach me: tdj03063@naver.com
