@@ -2,8 +2,6 @@
 
 👀 I’m interested in Java, Spring
 
-🌱 I’m currently learning Spring Data JPA, Spring Security
-
-🔭 I’m currently working on KBDS
+🌱 I’m currently learning Spring, Docker, K8S
 
 📫 How to reach me: tdj03063@naver.com
